@@ -156,6 +156,20 @@ Machine learning is used before the t-test to:
 
 Results:
 
+The 1 dimensional output: 
+
+The output shown the probability of class 1(placebo) that using the test data (X_test) in 
+different model. 
+
+![image](https://github.com/user-attachments/assets/f2a459b6-e93b-44f6-ad3f-1f7e64225673)
+
+![image](https://github.com/user-attachments/assets/4bacc51b-162c-4aaa-bacf-50ed884911d4)
+
+Hypothesis result:
+
+![image](https://github.com/user-attachments/assets/bdffa3cb-639c-42f4-b71f-09f57c724aa4)
+
+![image](https://github.com/user-attachments/assets/bcf4cf8a-f1a4-4cb1-9c49-cce50464ddc6)
 
 --SVM excelled due to clear class separation and RBF kernel.
 
@@ -163,7 +177,12 @@ Results:
 
 --Top Features: Laws_LER_absmean, Laws_LER_mean, Laws_LLS_mean, FirstOrder_Maximum, NGTDM_60_Complexity.
 
+![image](https://github.com/user-attachments/assets/41f67f31-fb07-49ee-8373-0406cd03248e)
 
+--The coefficient of top 20 features (Positive coefficients mean the feature is positively correlated with class 1 (Placebo) and negative correlated with class 0 (vitamin B))
+
+
+![image](https://github.com/user-attachments/assets/6ab94717-23cc-4dda-a4b3-ad8ec1d2dd86)
 
 --Conclusion: Vitamin B shows effects beyond placebo, supporting its role in CVD prevention.
 
