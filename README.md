@@ -44,6 +44,8 @@ External tools:
 
 6. MATLAB (for analyzing image textures)
 
+Link to the raw data and softwares: https://drive.google.com/drive/folders/1l0U4JbVJycA5nkBsBX8dffttJUUEUu11?usp=drive_link
+
 Data Preparation:
 
 Follow the steps from VesselWallTexturalAnalysisProcotol file to perform feature extraction from the raw data and preprocess the data 
